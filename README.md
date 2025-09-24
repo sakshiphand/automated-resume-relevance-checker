@@ -1,9 +1,6 @@
 # Automated Resume Relevance Check System
 AI-powered Automated Resume Relevance Check System for evaluating resumes against job descriptions with hybrid scoring, semantic analysis, and a web dashboard.
 
-## 🌐 Live Demo
-🔗 https://resumechecker-kd4gykqygcsnshvbwk8zbt.streamlit.app/
-
 ## 🎥 Demo Video
 📺 https://youtu.be/m5dDaJANBw0
 
@@ -81,6 +78,7 @@ streamlit run app.py
        Generate a Relevance Score (0–100), Missing Skills, and Verdict
 5. View results in the Streamlit dashboard with filtering/search options.
 6. Export results as CSV reports for the placement team.
+
 
 
 
