@@ -5,6 +5,11 @@ AI-powered Automated Resume Relevance Check System for evaluating resumes agains
 
 This system automates resume evaluation so placement teams can select students faster and more consistently. Students upload resumes, placement teams upload or select job descriptions, and the system scores each resume per JD — giving a final relevance score, missing skills, and personalized feedback.
 
+## 🌐 Live Demo
+
+Try the deployed Streamlit app here:  
+[Automated Resume Relevance Check System](https://sakshiphand-automated-resume-relevance-checker-app-366big.streamlit.app/)
+
 ## ✅ Features
 
 | Feature                                   | Description                                                                 |
@@ -75,6 +80,7 @@ streamlit run app.py
        Generate a Relevance Score (0–100), Missing Skills, and Verdict
 5. View results in the Streamlit dashboard with filtering/search options.
 6. Export results as CSV reports for the placement team.
+
 
 
 
