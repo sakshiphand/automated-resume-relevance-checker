@@ -33,6 +33,20 @@ Check out the full demo on YouTube:
 | 🌐 Web Application                        | Streamlit dashboard for uploading JDs/resumes and viewing results           |
 | 📥 Export Results                         | Download CSV reports for each JD separately                                 |
 
+## 🛠️ Tools & Techniques
+
+| Category       | Tools / Techniques                            | Purpose                                               |
+|----------------|-----------------------------------------------|------------------------------------------------------|
+| Programming    | Python                                        | Core language for app development                   |
+| Web Framework  | Streamlit                                     | Build interactive web dashboard                     |
+| Data Handling  | Pandas, NumPy                                 | Parse and process resumes & job descriptions       |
+| NLP / Parsing  | SpaCy, PDF/DOCX parsing libraries             | Extract skills, education, and experience          |
+| Matching / Scoring | Keyword/Fuzzy/ Semantic Embeddings         | Compare resumes with job descriptions              |
+| Database       | SQLite                                        | Store results for future access                     |
+| Visualization  | Streamlit Dashboard                           | Display relevance scores, missing skills, filters  |
+| Reporting      | CSV Export                                    | Export results for placement teams                 |
+
+
 ## Result
 
 ![WhatsApp Image 2025-09-21 at 1 55 26 PM](https://github.com/user-attachments/assets/89e17ca2-7337-4f20-ba78-e875694fa0d5)
@@ -85,6 +99,7 @@ streamlit run app.py
        Generate a Relevance Score (0–100), Missing Skills, and Verdict
 5. View results in the Streamlit dashboard with filtering/search options.
 6. Export results as CSV reports for the placement team.
+
 
 
 
