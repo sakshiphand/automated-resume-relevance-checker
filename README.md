@@ -10,6 +10,11 @@ This system automates resume evaluation so placement teams can select students f
 Try the deployed Streamlit app here:  
 [Automated Resume Relevance Check System](https://sakshiphand-automated-resume-relevance-checker-app-366big.streamlit.app/)
 
+## 🎬 Demo Video
+
+Check out the full demo on YouTube:  
+[Watch on YouTube](https://youtu.be/ET8otLacdSM?si=S5hdJoZrQQ9Vc18p)
+
 ## ✅ Features
 
 | Feature                                   | Description                                                                 |
@@ -80,6 +85,7 @@ streamlit run app.py
        Generate a Relevance Score (0–100), Missing Skills, and Verdict
 5. View results in the Streamlit dashboard with filtering/search options.
 6. Export results as CSV reports for the placement team.
+
 
 
 
